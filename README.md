@@ -15,5 +15,7 @@ Prediction Markets and Adjacent Resources
 
 (Papers might also be directly uploaded to this repository as PDFs!)
 
+* [Scientific Grant Funding](https://www.nber.org/papers/w26889) - Azoulay & Li 2020 (revised 2021)
+* [Funding Risky Research](https://www.nber.org/papers/w28905) - Franzoni, Stephan & Veugelers 2021
 * [Machine Learning as a Tool for Hypothesis Generation](https://www.nber.org/papers/w31017) - Ludwig & Mullainathan 2023
 * [AI-Augmented Predictions: LLM Assistants Improve Human Forecasting Accuracy](https://arxiv.org/abs/2402.07862) - Schoenegger, Park, Karger & Tetlock 2024
